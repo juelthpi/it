@@ -435,3 +435,41 @@ margin-bottom: 11px;
 .address{
 	color: black;
 }
+.refer_area{
+  display: flex;
+}
+.refer span{
+  font-size: 22px;
+  color: white;
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  border-top: 1px solid white;
+}
+.refer p{
+  margin-bottom: 5px;
+  color: white;
+  font-size: 22px;
+}
+.refer p a{
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+}
+.refer h4{
+  color: white;
+    margin-bottom: 20px;
+    border-bottom: 2px solid white;
+}
+.refer{
+  flex-basis: 85%;
+}
+.sing{
+  flex-basis: 15%;
+}
+
+.refer_area{
+  padding: 15px 0;
+  background: #00A8F9;
+}
+
