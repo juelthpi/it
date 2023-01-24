@@ -35,7 +35,7 @@ a{
 	justify-content: center;
 }
 .left-area{
-	flex-basis:25%;
+	flex-basis:27%;
 	background: #00A8F9;
 
 }
@@ -187,7 +187,7 @@ margin-top: 20px;
 /*social-area*/
 .social-area {
 	border-top: 2px solid white;
-	margin-top: 53px;
+	margin-top:0px;
 }
 .social-area h4{
 	font-size: 21px;
