@@ -109,7 +109,7 @@ margin-top: 20px;
 /*skils*/
 .skils-area{}
 .heding{
-	border-top: 2px solid white;
+	border-top:0px solid white;
 }
 .heding h3{
 	color: white;
